@@ -18,7 +18,7 @@ const mainBody = {
     
     {
       image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
+      url: "https://www.twitter.com/thedogecraft/",
     },
   ],
 };
